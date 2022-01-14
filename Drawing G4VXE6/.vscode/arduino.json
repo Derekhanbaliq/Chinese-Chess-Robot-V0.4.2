@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "COM5",
+    "programmer": "AVR ISP",
+    "output": "./build",
+    "sketch": "G4VXE6.ino"
+}

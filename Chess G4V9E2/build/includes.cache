@@ -1,0 +1,137 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\G4V9E2.ino.cpp",
+    "Include": "Arduino_FreeRTOS.h",
+    "Includepath": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\G4V9E2.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\G4V9E2.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "D:\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\G4V9E2.ino.cpp",
+    "Include": "FlexiTimer2.h",
+    "Includepath": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FlexiTimer2"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\G4V9E2.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\V0.4\\1 Arduino Code\\V0.4 Complete Code\\G4V9E2\\build\\sketch\\anglematrix.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\croutine.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\event_groups.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\heap_3.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\list.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\port.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\queue.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\stream_buffer.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\tasks.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\timers.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FreeRTOS\\src\\variantHooks.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FlexiTimer2\\FlexiTimer2.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
